@@ -52,6 +52,7 @@ img {
 .grid-container {
     display: grid;
     grid-template-columns: 250px 1fr;
+    min-width: 550px;
     background-color: #fff;
     border-radius: 20px;
     box-shadow: 3px 3px 30px 3px var(--shadow-color);
